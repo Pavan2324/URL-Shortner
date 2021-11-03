@@ -1,6 +1,6 @@
 # url-shortener
 Using Flask, SQLAlchemy and deployed on heroku
-Link to URL SHORTENER  :  [https://hiamninder.herokuapp.com/](https://hiamninder.herokuapp.com/)
+Link to URL SHORTENER  :  [https://url-shortner2324.herokuapp.com/](https://url-shortner2324.herokuapp.com/)
 
 Preview
 
